@@ -1,2 +1,2 @@
-# Restoran-Otomasyonu
-Ben ve proje arkadaşım Seha Bozkuş ile beraber geliştirdiğimiz otomasyon programı 
+# Restaurant Otomation
+The restaurant automation program that I and my project friend Seha Bozkuş developed together.
